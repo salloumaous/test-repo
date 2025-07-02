@@ -1,3 +1,3 @@
 [default]
-aws_access_key_id = haha
-aws_secret_access_key = hehe
+aws_access_key_id = d
+aws_secret_access_key = d
